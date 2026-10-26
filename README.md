@@ -1,0 +1,2 @@
+# SmartDocManager
+Management documents project
